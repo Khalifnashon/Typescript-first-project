@@ -1,0 +1,3 @@
+we can delete the count file, typescript.svg
+Create css folder and put css file inside it.
+in vite.env ds is where we put the type for different environment variables that you might Create
